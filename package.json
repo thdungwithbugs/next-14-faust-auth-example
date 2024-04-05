@@ -15,10 +15,21 @@
     "@faustwp/cli": "^1.2.0",
     "@faustwp/core": "^1.2.0",
     "@faustwp/experimental-app-router": "^0.2.0",
+    "@headlessui/react": "^1.7.18",
+    "@radix-ui/react-checkbox": "^1.0.4",
+    "@radix-ui/react-label": "^2.0.2",
+    "@tailwindcss/typography": "^0.5.12",
+    "@types/swiper": "^6.0.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
     "graphql": "^16.7.1",
+    "lucide-react": "^0.364.0",
     "next": "^14.0.1",
     "react": "^18.3.0-canary-ce2bc58a9-20231102",
-    "react-dom": "^18.3.0-canary-ce2bc58a9-20231102"
+    "react-dom": "^18.3.0-canary-ce2bc58a9-20231102",
+    "swiper": "^11.1.0",
+    "tailwind-merge": "^2.2.2",
+    "tailwindcss-animate": "^1.0.7"
   },
   "engines": {
     "node": ">=18",
